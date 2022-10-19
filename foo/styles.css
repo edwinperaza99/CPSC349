@@ -1,0 +1,46 @@
+h1{
+    color: blue;
+    font-size: 100px;
+    font-family: Courier;
+    text-align: center;
+}
+p {
+    color: green;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   }
+img {
+    border: 2px solid red;
+    border-radius: 8px;
+    width: 200px;
+   }
+.sammy {
+    color: green;
+}
+.yellow-background-text {
+    background-color: yellow;
+}
+.black-img {
+    border: 5px dotted black;
+    border-radius: 10%;
+   }
+   .yellow-img {
+    border: 25px solid yellow;
+    border-radius: 50%;
+   }
+   .red-img {
+    border: 15px double red;
+   }
+
+   #my-first-id {
+    color: blue;
+   }
+
+   img:hover {
+    border: 10px solid red;
+    }
+    p:hover {
+        font-size:100px;
+        color:red;
+       }
